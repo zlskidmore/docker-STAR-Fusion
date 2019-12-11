@@ -2,8 +2,8 @@
 FROM ubuntu:18.04
 
 # set the environment variables
-ENV star_version 2.7.2a
-ENV star_fusion_version v1.7.0
+ENV star_version 2.7.2b
+ENV star_fusion_version v1.8.0
 ENV samtools_version 1.9
 
 # run update and install necessary tools
